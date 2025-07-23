@@ -1,0 +1,6 @@
+{
+  "name": "CleanCode AI",
+  "author": "Trunal Jagdhane",
+  "description": "An intelligent web tool that uses the Gemini API to review, optimize, secure, and explain code in various programming languages. Features include a smart feedback panel, security scanner, code explainer, one-click optimizer, and an AI chat assistant, all integrated with a Monaco code editor.",
+  "requestFramePermissions": []
+}
